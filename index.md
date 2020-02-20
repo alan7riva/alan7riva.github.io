@@ -5,7 +5,9 @@ description: I'm a researcher at UNAM's institute of applied mathematics, IIMAS,
 keywords: Bayesian, nonparametrics, statistics
 ---
 
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+I'm a researcher at UNAM's institute of applied mathematics, IIMAS, in the statistics and probability department. My main interests are Bayesian nonparametric statistics, inference of stochastic processes and simulation methods.
+
+Soy investigador asociado C en el departamento de Probailidad y Estadística del Instituto de Investigaciones en Matemáticas Aplicadas y en Sistema (IIMAS) de la UNAM. Mis intereses principales son la estadística Bayesiana no paramétrica, inferencia de procesos estocásticos y métodos de simulación.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
