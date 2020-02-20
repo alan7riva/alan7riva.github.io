@@ -1,8 +1,8 @@
 ---
 layout: frontpage
-title: Blue Ham
-description: Blue Ham is a PhD candidate at Broom University. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+title: Dr Alan Riva Palacio
+description: I'm a researcher at UNAM's institute of applied mathematics, IIMAS, in the statistics and probability department. My main interests are Bayesian nonparametric statistics, inference of stochastic processes and simulation methods.
+keywords: Bayesian, nonparametrics, statistics
 ---
 
 Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
@@ -18,14 +18,14 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Alan Riva Palacio<br/>
+            Email: alan@sigma.iimas.unam.mx<br/>
         </div>
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+                  title="Alan Riva Palacio" alt="Alan Riva Palacio"/></a>
         </div>
     </div>
 </div>
@@ -34,8 +34,8 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+          <li><a href="https://github.com/alan7riva">GitHub</a></li>
+          <li><a href="https://twitter.com/alan7riva">Twitter (@alan7riva)</a></li>
       </ul>
   </div>
 </div>
