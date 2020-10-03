@@ -11,6 +11,10 @@ description: Ongoing and past research
 
 [paper link](https://projecteuclid.org/download/pdfview_1/euclid.ejs/1525334453)
 
+#### <u>Integrability conditions for compound random measures</u>
+Compound random measures (CoRM’s) are a flexible and tractable framework for vectors of completely random measure. In this paper, we provide conditions to guarantee the existence of a CoRM. Furthermore, we prove some interesting properties of CoRM’s when exponential scores and regularly varying Lévy intensities are considered.
+
+[paper link](https://www.sciencedirect.com/science/article/abs/pii/S0167715217303516)
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
