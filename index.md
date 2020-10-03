@@ -16,7 +16,7 @@ Soy investigador asociado C en el departamento de Probailidad y Estadística del
 
 
 <div class="container">
-<h4><a name="Contact"></a>Contact</h4>
+<h4><a name="Contact"></a>contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
