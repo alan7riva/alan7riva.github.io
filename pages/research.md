@@ -1,22 +1,22 @@
 ---
 layout: page
 title: Research
-description: Blue Ham's research
+description: Ongoing and past research
 ---
 
 
 
 #### <u>The effects of increased eye contact on feeding portions</u>
-*In this paper I estimate the effect of increased eye contact on the size of feeding portions delivered by my humans. Over a period of several months I varied the amount of time I spent in locked eye contact with my masters while secretely recording the total amount of food provided each day. The results incidate that the relationship between eye contact and portion size is concave, in that as eye contact increases, the portion size increases up until a point where it begins to decrease. Future research will examine whether time spent cuddling exhibits a similar relationship.*
+*In many real problems, dependence structures more general than exchangeability are required. For instance, in some settings partial exchangeability is a more reasonable assumption. For this reason, vectors of dependent Bayesian nonparametric priors have recently gained popularity. They provide flexible models which are tractable from a computational and theoretical point of view. In this paper, we focus on their use for estimating multivariate survival functions. Our model extends the work of Epifani and Lijoi (2010) to an arbitrary dimension and allows to model the dependence among survival times of different groups of observations. Theoretical results about the posterior behaviour of the underlying dependent vector of completely random measures are provided. The performance of the model is tested on a simulated dataset arising from a distributional Clayton copula.*
 
-[click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
+[paper link](https://projecteuclid.org/download/pdfview_1/euclid.ejs/1525334453)
 
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
 <!--
 To increase the size of the title, use fewer # in front of the paper title.
-To decrease the size of the title, use more #. 
+To decrease the size of the title, use more #.
 To remove the italics, remove the * before and after the description
 To remove the underline from the title, remove the <u> tags (<u> and </u>)
 -->
