@@ -6,6 +6,7 @@ description: Ongoing and past research
 
 #### <u>Survival regression models with dependent Bayesian nonparametric priors.</u>
 ##### with Fabrizio Leisen and Jim Griffin
+
 *We present a novel Bayesian nonparametric model for regression in survival analysis. Our model builds on the classical neutral to the right model of Doksum (1974) and on the Cox proportional hazards model of Kim and Lee (2003). The use of a vector of dependent Bayesian nonparametric priors allows us to efficiently model the hazard as a function of covariates whilst allowing nonproportionality. The model can be seen as having competing latent risks. We characterize the posterior of the underlying dependent vector of completely random measures and study the asymptotic behavior of the model. We show how an MCMC scheme can provide Bayesian inference for posterior means and credible intervals. The method is illustrated using simulated and real data.*
 [paper link](https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1864381?journalCode=uasa20)
 
