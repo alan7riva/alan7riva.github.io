@@ -9,7 +9,7 @@ I'm a researcher at UNAM's institute of applied mathematics, IIMAS, in the stati
 
 Soy investigador asociado C en el departamento de Probailidad y Estadística del Instituto de Investigaciones en Matemáticas Aplicadas y en Sistema (IIMAS) de la UNAM. Mis intereses principales son la estadística Bayesiana no paramétrica, inferencia de procesos estocásticos y métodos de simulación.
 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/fullCV.pdf)<br/>
 
 
 ---
