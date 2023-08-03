@@ -14,7 +14,13 @@ description: Ongoing and past research
 ##### with Fabrizio Leisen
 
 *Lévy copulas are an important tool which can be used to build dependent Lévy processes. In a classical setting, they have been used to model financial applications. In a Bayesian framework they have been employed to introduce dependent nonparametric priors which allow to model heterogeneous data. This paper focuses on introducing anew class of Lévy copulas based on a class of subordinators called Compound Random Measures. The well-known Clayton Lévy copula is a special case of this new class. Furthermore, we provide some novel results about the underlying vector of subordinators such as a series representation and relevant moments.  The article concludes with an application to a vector of stable processes simulation study and Danish fire real dataset study.*
-[paper link](https://arxiv.org/pdf/1909.12112.pdf)
+[paper link](https://www.sciencedirect.com/science/article/abs/pii/S0047259X21000063)
+
+#### <u>On the estimation of partially observed continuous-time Markov chains.</u>
+##### with Ramsés Mena and Stephen Walker
+
+*Motivated by the increasing use of discrete-state Markov processes across applied disciplines, a Metropolis–Hastings sampling algorithm is proposed for a partially observed process. Current approaches, both classical and Bayesian, have relied on imputing the missing parts of the process and working with a complete likelihood. However, from a Bayesian perspective, the use of latent variables is not necessary and exploiting the observed likelihood function, combined with a suitable Markov chain Monte Carlo method, results in an accurate and efficient approach. A comprehensive comparison with simulated and real data sets demonstrate our approach when compared with alternatives available in the literature.*
+[paper link](https://www.tandfonline.com/doi/abs/10.1080/01621459.2020.1864381?journalCode=uasa20)
 
 
 #### <u>Bayesian nonparametric estimation of survival functions with multiple-samples information.</u>
