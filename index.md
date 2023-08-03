@@ -25,8 +25,8 @@ Soy investigador asociado C en el departamento de Probailidad y Estadística del
         </div>
 
         <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
+        <a href="../assets/PinturasBonampak.jpg">
+            <img src="../assets/PinturasBonampak.jpg"
                   title="Alan Riva Palacio" alt="Alan Riva Palacio"/></a>
         </div>
     </div>
